@@ -1,0 +1,26 @@
+pkgname=base-devel-meta
+pkgver=2022.10
+pkgrel=1
+depends=( 
+	'binutils'
+	'bison'
+	'diffstat'
+	'diffutils'
+	'flex'
+	'gperf'
+	'grep'
+	'groff'
+	'help2man'
+	'intltool'
+	'make'
+	'man-db'
+	'patch'
+	'patchutils'
+	'perl'
+	'pkgconf'
+	'texinfo'
+	'texinfo-tex'
+	'unrar'
+	'xmlto'
+	'dos2unix'
+)
