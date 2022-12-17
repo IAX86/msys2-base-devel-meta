@@ -1,2 +1,2 @@
-# msys2-base-devel-meta
-msys2 base-devel meta package
+# MSYS2-base-devel-meta
+MSYS2 base-devel meta package
